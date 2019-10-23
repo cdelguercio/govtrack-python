@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
   name='govtrack',
   packages=['govtrack'],
-  install_requires=['unittest2==1.1.0','requests==2.9.1',],
+  install_requires=['unittest2==1.1.0','requests==2.20.0',],
   version='0.1',
   description='A Python library for the GovTrack.us API v2.',
   author='Chris Del Guercio',
